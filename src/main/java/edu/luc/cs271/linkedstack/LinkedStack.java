@@ -59,3 +59,4 @@ public class LinkedStack<E> implements IStack<E> {
     }
     return list;
   }
+}
